@@ -13,3 +13,8 @@ Fique à vontade para explorar meus repositórios e ver no que estou trabalhando
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+
+## 🚀Objetivos Futuros
+
+- 🌍Aprender novos idiomas para facilitar a comunicação global.
+- 🧑‍🎓Cursar Ciência da Computação.

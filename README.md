@@ -16,5 +16,5 @@ Fique à vontade para explorar meus repositórios e ver no que estou trabalhando
 
 ## 🚀Objetivos Futuros
 
-- 🌍 Aprender novos idiomas para facilitar a comunicação global.
-- 🧑‍🎓 Cursar Ciência da Computação.
+- 🌍Aprender novos idiomas para facilitar a comunicação global.
+- 🧑‍🎓Cursar Ciência da Computação.

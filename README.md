@@ -6,7 +6,7 @@ Também estou focado em aprimorar constantemente minhas habilidades em programa�
 
 Fique à vontade para explorar meus repositórios e ver no que estou trabalhando. Siga-me para acompanhar minha jornada e as atualizações de meus projetos! Vamos juntos transformar ideias em realidade.
 
-### Tecnologias e Ferramentas
+### ⚒️ Tecnologias e Ferramentas
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)

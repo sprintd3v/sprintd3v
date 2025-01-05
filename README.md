@@ -1,5 +1,6 @@
 # Olá 👋, Eu sou o Gabriel!
 
+
 Desenvolvedor com foco em soluções criativas e eficientes para a web e desenvolvimento de scripts. Sou apaixonado por explorar novas tecnologias e construir projetos inovadores, sempre buscando aprender e aprimorar minhas habilidades. Tenho experiência em diversas linguagens e frameworks, e estou sempre aberto a novos desafios que possam expandir meu conhecimento.
 
 Também estou focado em aprimorar constantemente minhas habilidades em programação, especialmente em Computer Science. Fique à vontade para conferir minhas atividades no GitHub e ver no que estou trabalhando.

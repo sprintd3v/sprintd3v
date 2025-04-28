@@ -1,6 +1,6 @@
 # Olá 👋, Eu sou o Gabriel!
 
-[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default&show_icons=true)](https://github.com/sprintd3v)
 
 Desenvolvedor com foco em soluções criativas e eficientes para a web e desenvolvimento de scripts. Gosto de explorar novas tecnologias e construir projetos inovadores, sempre buscando aprender e aprimorar minhas habilidades. Tenho experiência em diversas linguagens e frameworks, e estou sempre aberto a novos desafios que possam expandir meu conhecimento.
 
